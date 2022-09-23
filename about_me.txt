@@ -1,3 +1,9 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Name: Daniel Tok
+Year: Freshman
+School: CoE
+Major: CS
+Fun fact: ¯\_(ツ)_/¯
